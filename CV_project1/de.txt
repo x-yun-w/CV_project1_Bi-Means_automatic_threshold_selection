@@ -1,0 +1,717 @@
+In main(), below is the Graph after plotting the histogram onto Graph
+                                                                                                                                                                                                                       
++                                                                                                                                                                                                                      
++++                                                                                                                                                                                                                    
++++++                                                                                                                                                                                                                  
+++++                                                                                                                                                                                                                   
++++++                                                                                                                                                                                                                  
++++++++                                                                                                                                                                                                                
+++++                                                                                                                                                                                                                   
+++++++                                                                                                                                                                                                                 
+++++++++++                                                                                                                                                                                                             
+++++++++++++                                                                                                                                                                                                           
++++++++++++++++                                                                                                                                                                                                        
+++++++++++                                                                                                                                                                                                             
+++++++++++++++                                                                                                                                                                                                         
++++++++++++++++                                                                                                                                                                                                        
+++++++++++++++++++++++                                                                                                                                                                                                 
+++++++++++++++++++++                                                                                                                                                                                                   
+++++++++++++++++++                                                                                                                                                                                                     
+++++++++++++++++++++++++++++                                                                                                                                                                                           
+++++++++++++++++++++++++++++++++++++++                                                                                                                                                                                 
+++++++++++++++++++++++++++++++++++++++++++++                                                                                                                                                                           
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                                                                                                                                               
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                                                                                                                                 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                                                                                                             
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                                                                               
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                                                 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                         
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                         
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                           
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                                                                   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                                                                                                   
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                                                                                                              
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                                                                                                                         
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                                                                                                                               
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                                                                                                                       
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                                                                                                             
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                                                                                                   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                                                                               
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                                  
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                             
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                    
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                              
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                             
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                                  
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                                                                               
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                                                                                                             
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                                                                                                                       
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                                                                                                                                 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                                                                                                                                           
+++++++++++++++++++++++++++++++++++++++++++++++++++++++                                                                                                                                                                 
++++++++++++++++++++++++++++++++++++                                                                                                                                                                                    
++++++++++++++++++++++++++++++++                                                                                                                                                                                        
++++++++++++++++++++++                                                                                                                                                                                                  
++++++++++++++++++++                                                                                                                                                                                                    
+++++++++++++                                                                                                                                                                                                           
+++++++++++                                                                                                                                                                                                             
++++++++++                                                                                                                                                                                                              
++++++++++++                                                                                                                                                                                                            
+++++++++                                                                                                                                                                                                               
+++++++                                                                                                                                                                                                                 
+Entering biGaussian method
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 5   result is: 2.92308
+Entering computeVar method
+Leaving computeVar method returning result: 0.840237
+leaving fitGauss method, sum is: 6.61489
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 34.4991
+Entering computeVar method
+Leaving computeVar method returning result: 97.8419
+leaving fitGauss method, sum is: 1679.45
+dividePt: 5, sum1: 6.61489, sum2: 1679.45, total: 1686.07, minSumDiff: 1686.07, bestThr: 5
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 5   result is: 3.5
+Entering computeVar method
+Leaving computeVar method returning result: 1.47222
+leaving fitGauss method, sum is: 11.2236
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 34.5354
+Entering computeVar method
+Leaving computeVar method returning result: 96.8922
+leaving fitGauss method, sum is: 1663.22
+dividePt: 6, sum1: 11.2236, sum2: 1663.22, total: 1674.45, minSumDiff: 1674.45, bestThr: 6
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 7   result is: 4.2
+Entering computeVar method
+Leaving computeVar method returning result: 2.32
+leaving fitGauss method, sum is: 11.3157
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 34.5845
+Entering computeVar method
+Leaving computeVar method returning result: 95.6544
+leaving fitGauss method, sum is: 1642.87
+dividePt: 7, sum1: 11.3157, sum2: 1642.87, total: 1654.18, minSumDiff: 1654.18, bestThr: 7
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 7   result is: 4.58621
+Entering computeVar method
+Leaving computeVar method returning result: 2.93222
+leaving fitGauss method, sum is: 14.4878
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 34.6117
+Entering computeVar method
+Leaving computeVar method returning result: 94.9984
+leaving fitGauss method, sum is: 1634.93
+dividePt: 8, sum1: 14.4878, sum2: 1634.93, total: 1649.42, minSumDiff: 1649.42, bestThr: 8
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 7   result is: 5.17143
+Entering computeVar method
+Leaving computeVar method returning result: 4.0849
+leaving fitGauss method, sum is: 19.7717
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 34.651
+Entering computeVar method
+Leaving computeVar method returning result: 94.0896
+leaving fitGauss method, sum is: 1622.85
+dividePt: 9, sum1: 19.7717, sum2: 1622.85, total: 1642.63, minSumDiff: 1642.63, bestThr: 9
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 10   result is: 6.02222
+Entering computeVar method
+Leaving computeVar method returning result: 5.71062
+leaving fitGauss method, sum is: 32.9061
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 34.7145
+Entering computeVar method
+Leaving computeVar method returning result: 92.6915
+leaving fitGauss method, sum is: 1601.58
+dividePt: 10, sum1: 32.9061, sum2: 1601.58, total: 1634.49, minSumDiff: 1634.49, bestThr: 10
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 12   result is: 6.85965
+Entering computeVar method
+Leaving computeVar method returning result: 7.1382
+leaving fitGauss method, sum is: 45.193
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 34.788
+Entering computeVar method
+Leaving computeVar method returning result: 91.1445
+leaving fitGauss method, sum is: 1577.23
+dividePt: 11, sum1: 45.193, sum2: 1577.23, total: 1622.42, minSumDiff: 1622.42, bestThr: 11
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 15   result is: 7.72222
+Entering computeVar method
+Leaving computeVar method returning result: 8.4784
+leaving fitGauss method, sum is: 51.1919
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 34.8768
+Entering computeVar method
+Leaving computeVar method returning result: 89.3644
+leaving fitGauss method, sum is: 1548.15
+dividePt: 12, sum1: 51.1919, sum2: 1548.15, total: 1599.34, minSumDiff: 1599.34, bestThr: 12
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 15   result is: 8.2439
+Entering computeVar method
+Leaving computeVar method returning result: 9.40393
+leaving fitGauss method, sum is: 54.3702
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 34.9339
+Entering computeVar method
+Leaving computeVar method returning result: 88.2783
+leaving fitGauss method, sum is: 1532.97
+dividePt: 13, sum1: 54.3702, sum2: 1532.97, total: 1587.34, minSumDiff: 1587.34, bestThr: 13
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 15   result is: 8.9375
+Entering computeVar method
+Leaving computeVar method returning result: 10.8503
+leaving fitGauss method, sum is: 54.8428
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 35.0108
+Entering computeVar method
+Leaving computeVar method returning result: 86.8955
+leaving fitGauss method, sum is: 1518.18
+dividePt: 14, sum1: 54.8428, sum2: 1518.18, total: 1573.02, minSumDiff: 1573.02, bestThr: 14
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 15   result is: 9.62162
+Entering computeVar method
+Leaving computeVar method returning result: 12.3794
+leaving fitGauss method, sum is: 63.5093
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 35.09
+Entering computeVar method
+Leaving computeVar method returning result: 85.5526
+leaving fitGauss method, sum is: 1504.2
+dividePt: 15, sum1: 63.5093, sum2: 1504.2, total: 1567.71, minSumDiff: 1567.71, bestThr: 15
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 22   result is: 10.5113
+Entering computeVar method
+Leaving computeVar method returning result: 14.3251
+leaving fitGauss method, sum is: 98.161
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 35.2017
+Entering computeVar method
+Leaving computeVar method returning result: 83.7718
+leaving fitGauss method, sum is: 1493.58
+dividePt: 16, sum1: 98.161, sum2: 1493.58, total: 1591.74, minSumDiff: 1567.71, bestThr: 15
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 22   result is: 11.2288
+Entering computeVar method
+Leaving computeVar method returning result: 15.8758
+leaving fitGauss method, sum is: 98.9287
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 35.2992
+Entering computeVar method
+Leaving computeVar method returning result: 82.3148
+leaving fitGauss method, sum is: 1487.05
+dividePt: 17, sum1: 98.9287, sum2: 1487.05, total: 1585.98, minSumDiff: 1567.71, bestThr: 15
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 22   result is: 11.8363
+Entering computeVar method
+Leaving computeVar method returning result: 17.3416
+leaving fitGauss method, sum is: 108.733
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 35.3833
+Entering computeVar method
+Leaving computeVar method returning result: 81.1478
+leaving fitGauss method, sum is: 1476.61
+dividePt: 18, sum1: 108.733, sum2: 1476.61, total: 1585.35, minSumDiff: 1567.71, bestThr: 15
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 28   result is: 12.7035
+Entering computeVar method
+Leaving computeVar method returning result: 19.495
+leaving fitGauss method, sum is: 147.372
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 35.5084
+Entering computeVar method
+Leaving computeVar method returning result: 79.5416
+leaving fitGauss method, sum is: 1477.74
+dividePt: 19, sum1: 147.372, sum2: 1477.74, total: 1625.11, minSumDiff: 1567.71, bestThr: 15
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 38   result is: 13.7131
+Entering computeVar method
+Leaving computeVar method returning result: 21.7067
+leaving fitGauss method, sum is: 237.507
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 35.6712
+Entering computeVar method
+Leaving computeVar method returning result: 77.6118
+leaving fitGauss method, sum is: 1496.42
+dividePt: 20, sum1: 237.507, sum2: 1496.42, total: 1733.92, minSumDiff: 1567.71, bestThr: 15
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 44   result is: 14.6975
+Entering computeVar method
+Leaving computeVar method returning result: 23.5277
+leaving fitGauss method, sum is: 294.052
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 35.8522
+Entering computeVar method
+Leaving computeVar method returning result: 75.6387
+leaving fitGauss method, sum is: 1523.05
+dividePt: 21, sum1: 294.052, sum2: 1523.05, total: 1817.1, minSumDiff: 1567.71, bestThr: 15
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 56   result is: 15.7448
+Entering computeVar method
+Leaving computeVar method returning result: 25.1218
+leaving fitGauss method, sum is: 390.029
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 36.0738
+Entering computeVar method
+Leaving computeVar method returning result: 73.4267
+leaving fitGauss method, sum is: 1544.31
+dividePt: 22, sum1: 390.029, sum2: 1544.31, total: 1934.33, minSumDiff: 1567.71, bestThr: 15
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 70   result is: 16.8206
+Entering computeVar method
+Leaving computeVar method returning result: 26.3732
+leaving fitGauss method, sum is: 509.108
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 36.3413
+Entering computeVar method
+Leaving computeVar method returning result: 70.9861
+leaving fitGauss method, sum is: 1556.42
+dividePt: 23, sum1: 509.108, sum2: 1556.42, total: 2065.53, minSumDiff: 1567.71, bestThr: 15
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 90   result is: 17.9396
+Entering computeVar method
+Leaving computeVar method returning result: 27.2599
+leaving fitGauss method, sum is: 678.398
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 36.6755
+Entering computeVar method
+Leaving computeVar method returning result: 68.1942
+leaving fitGauss method, sum is: 1551.8
+dividePt: 24, sum1: 678.398, sum2: 1551.8, total: 2230.2, minSumDiff: 1567.71, bestThr: 15
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 120   result is: 19.1183
+Entering computeVar method
+Leaving computeVar method returning result: 27.7121
+leaving fitGauss method, sum is: 918.412
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 37.1134
+Entering computeVar method
+Leaving computeVar method returning result: 64.8072
+leaving fitGauss method, sum is: 1516.22
+dividePt: 25, sum1: 918.412, sum2: 1516.22, total: 2434.63, minSumDiff: 1567.71, bestThr: 15
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 150   result is: 20.2686
+Entering computeVar method
+Leaving computeVar method returning result: 27.7349
+leaving fitGauss method, sum is: 1142.52
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 37.6602
+Entering computeVar method
+Leaving computeVar method returning result: 60.8099
+leaving fitGauss method, sum is: 1438.87
+dividePt: 26, sum1: 1142.52, sum2: 1438.87, total: 2581.39, minSumDiff: 1567.71, bestThr: 15
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 190   result is: 21.4065
+Entering computeVar method
+Leaving computeVar method returning result: 27.4555
+leaving fitGauss method, sum is: 1393.36
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 38.3674
+Entering computeVar method
+Leaving computeVar method returning result: 55.7524
+leaving fitGauss method, sum is: 1360.37
+dividePt: 27, sum1: 1393.36, sum2: 1360.37, total: 2753.72, minSumDiff: 1567.71, bestThr: 15
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 22.4287
+Entering computeVar method
+Leaving computeVar method returning result: 27.1108
+leaving fitGauss method, sum is: 1464.05
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 195   result is: 39.2008
+Entering computeVar method
+Leaving computeVar method returning result: 49.6719
+leaving fitGauss method, sum is: 999.389
+dividePt: 28, sum1: 1464.05, sum2: 999.389, total: 2463.44, minSumDiff: 1567.71, bestThr: 15
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 23.2065
+Entering computeVar method
+Leaving computeVar method returning result: 27.0544
+leaving fitGauss method, sum is: 1342.33
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 195   result is: 39.9806
+Entering computeVar method
+Leaving computeVar method returning result: 43.7875
+leaving fitGauss method, sum is: 836.423
+dividePt: 29, sum1: 1342.33, sum2: 836.423, total: 2178.75, minSumDiff: 1567.71, bestThr: 15
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 23.8565
+Entering computeVar method
+Leaving computeVar method returning result: 27.3623
+leaving fitGauss method, sum is: 1216.44
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 195   result is: 40.7192
+Entering computeVar method
+Leaving computeVar method returning result: 38.0768
+leaving fitGauss method, sum is: 689.403
+dividePt: 30, sum1: 1216.44, sum2: 689.403, total: 1905.85, minSumDiff: 1567.71, bestThr: 15
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 24.3435
+Entering computeVar method
+Leaving computeVar method returning result: 27.948
+leaving fitGauss method, sum is: 1100.22
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 195   result is: 41.3027
+Entering computeVar method
+Leaving computeVar method returning result: 33.5546
+leaving fitGauss method, sum is: 572.277
+dividePt: 31, sum1: 1100.22, sum2: 572.277, total: 1672.5, minSumDiff: 1567.71, bestThr: 15
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 24.7207
+Entering computeVar method
+Leaving computeVar method returning result: 28.7327
+leaving fitGauss method, sum is: 1019.57
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 195   result is: 41.7458
+Entering computeVar method
+Leaving computeVar method returning result: 30.236
+leaving fitGauss method, sum is: 484.926
+dividePt: 32, sum1: 1019.57, sum2: 484.926, total: 1504.5, minSumDiff: 1504.5, bestThr: 32
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 25.0701
+Entering computeVar method
+Leaving computeVar method returning result: 29.775
+leaving fitGauss method, sum is: 979.675
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 195   result is: 42.1337
+Entering computeVar method
+Leaving computeVar method returning result: 27.5085
+leaving fitGauss method, sum is: 439.3
+dividePt: 33, sum1: 979.675, sum2: 439.3, total: 1418.97, minSumDiff: 1418.97, bestThr: 33
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 25.3903
+Entering computeVar method
+Leaving computeVar method returning result: 31.0092
+leaving fitGauss method, sum is: 970.325
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 195   result is: 42.4639
+Entering computeVar method
+Leaving computeVar method returning result: 25.3784
+leaving fitGauss method, sum is: 439.103
+dividePt: 34, sum1: 970.325, sum2: 439.103, total: 1409.43, minSumDiff: 1409.43, bestThr: 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 25.6996
+Entering computeVar method
+Leaving computeVar method returning result: 32.4627
+leaving fitGauss method, sum is: 1006.02
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 195   result is: 42.756
+Entering computeVar method
+Leaving computeVar method returning result: 23.6965
+leaving fitGauss method, sum is: 459.521
+dividePt: 35, sum1: 1006.02, sum2: 459.521, total: 1465.54, minSumDiff: 1409.43, bestThr: 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 26.0566
+Entering computeVar method
+Leaving computeVar method returning result: 34.4095
+leaving fitGauss method, sum is: 1068.23
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 195   result is: 43.0653
+Entering computeVar method
+Leaving computeVar method returning result: 22.1468
+leaving fitGauss method, sum is: 513.554
+dividePt: 36, sum1: 1068.23, sum2: 513.554, total: 1581.79, minSumDiff: 1409.43, bestThr: 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 26.4683
+Entering computeVar method
+Leaving computeVar method returning result: 36.9086
+leaving fitGauss method, sum is: 1133.63
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 195   result is: 43.3972
+Entering computeVar method
+Leaving computeVar method returning result: 20.7321
+leaving fitGauss method, sum is: 565.903
+dividePt: 37, sum1: 1133.63, sum2: 565.903, total: 1699.54, minSumDiff: 1409.43, bestThr: 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 26.9314
+Entering computeVar method
+Leaving computeVar method returning result: 39.9487
+leaving fitGauss method, sum is: 1232.25
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 195   result is: 43.7494
+Entering computeVar method
+Leaving computeVar method returning result: 19.4961
+leaving fitGauss method, sum is: 622.393
+dividePt: 38, sum1: 1232.25, sum2: 622.393, total: 1854.64, minSumDiff: 1409.43, bestThr: 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 27.4862
+Entering computeVar method
+Leaving computeVar method returning result: 43.7795
+leaving fitGauss method, sum is: 1359.99
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 195   result is: 44.1562
+Entering computeVar method
+Leaving computeVar method returning result: 18.3712
+leaving fitGauss method, sum is: 675.974
+dividePt: 39, sum1: 1359.99, sum2: 675.974, total: 2035.96, minSumDiff: 1409.43, bestThr: 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 28.2286
+Entering computeVar method
+Leaving computeVar method returning result: 48.9532
+leaving fitGauss method, sum is: 1498.29
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 195   result is: 44.712
+Entering computeVar method
+Leaving computeVar method returning result: 17.177
+leaving fitGauss method, sum is: 712.537
+dividePt: 40, sum1: 1498.29, sum2: 712.537, total: 2210.83, minSumDiff: 1409.43, bestThr: 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 29.0262
+Entering computeVar method
+Leaving computeVar method returning result: 54.3891
+leaving fitGauss method, sum is: 1628.66
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 195   result is: 45.3636
+Entering computeVar method
+Leaving computeVar method returning result: 16.0574
+leaving fitGauss method, sum is: 739.707
+dividePt: 41, sum1: 1628.66, sum2: 739.707, total: 2368.37, minSumDiff: 1409.43, bestThr: 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 29.8204
+Entering computeVar method
+Leaving computeVar method returning result: 59.6603
+leaving fitGauss method, sum is: 1708.11
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 185   result is: 46.1035
+Entering computeVar method
+Leaving computeVar method returning result: 15.0041
+leaving fitGauss method, sum is: 733.115
+dividePt: 42, sum1: 1708.11, sum2: 733.115, total: 2441.22, minSumDiff: 1409.43, bestThr: 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 30.5414
+Entering computeVar method
+Leaving computeVar method returning result: 64.3904
+leaving fitGauss method, sum is: 1782.09
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 170   result is: 46.8902
+Entering computeVar method
+Leaving computeVar method returning result: 14.0335
+leaving fitGauss method, sum is: 707.569
+dividePt: 43, sum1: 1782.09, sum2: 707.569, total: 2489.66, minSumDiff: 1409.43, bestThr: 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 31.1842
+Entering computeVar method
+Leaving computeVar method returning result: 68.6632
+leaving fitGauss method, sum is: 1827.19
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 165   result is: 47.722
+Entering computeVar method
+Leaving computeVar method returning result: 13.1064
+leaving fitGauss method, sum is: 696.437
+dividePt: 44, sum1: 1827.19, sum2: 696.437, total: 2523.62, minSumDiff: 1409.43, bestThr: 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 31.7954
+Entering computeVar method
+Leaving computeVar method returning result: 72.8477
+leaving fitGauss method, sum is: 1808.59
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 120   result is: 48.6968
+Entering computeVar method
+Leaving computeVar method returning result: 11.9605
+leaving fitGauss method, sum is: 439.299
+dividePt: 45, sum1: 1808.59, sum2: 439.299, total: 2247.89, minSumDiff: 1409.43, bestThr: 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 32.238
+Entering computeVar method
+Leaving computeVar method returning result: 76.0545
+leaving fitGauss method, sum is: 1770.77
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 90   result is: 49.5667
+Entering computeVar method
+Leaving computeVar method returning result: 10.8024
+leaving fitGauss method, sum is: 296.421
+dividePt: 46, sum1: 1770.77, sum2: 296.421, total: 2067.19, minSumDiff: 1409.43, bestThr: 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 32.5755
+Entering computeVar method
+Leaving computeVar method returning result: 78.7201
+leaving fitGauss method, sum is: 1743.42
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 80   result is: 50.331
+Entering computeVar method
+Leaving computeVar method returning result: 9.80714
+leaving fitGauss method, sum is: 259.256
+dividePt: 47, sum1: 1743.42, sum2: 259.256, total: 2002.67, minSumDiff: 1409.43, bestThr: 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 32.8832
+Entering computeVar method
+Leaving computeVar method returning result: 81.3848
+leaving fitGauss method, sum is: 1721.5
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 70   result is: 51.1147
+Entering computeVar method
+Leaving computeVar method returning result: 8.88978
+leaving fitGauss method, sum is: 222.755
+dividePt: 48, sum1: 1721.5, sum2: 222.755, total: 1944.25, minSumDiff: 1409.43, bestThr: 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 33.1602
+Entering computeVar method
+Leaving computeVar method returning result: 84.0042
+leaving fitGauss method, sum is: 1692.18
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 60   result is: 51.9222
+Entering computeVar method
+Leaving computeVar method returning result: 8.02728
+leaving fitGauss method, sum is: 194.541
+dividePt: 49, sum1: 1692.18, sum2: 194.541, total: 1886.72, minSumDiff: 1409.43, bestThr: 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 33.4052
+Entering computeVar method
+Leaving computeVar method returning result: 86.525
+leaving fitGauss method, sum is: 1660.65
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 54   result is: 52.7571
+Entering computeVar method
+Leaving computeVar method returning result: 7.18388
+leaving fitGauss method, sum is: 174.397
+dividePt: 50, sum1: 1660.65, sum2: 174.397, total: 1835.05, minSumDiff: 1409.43, bestThr: 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 33.6329
+Entering computeVar method
+Leaving computeVar method returning result: 89.0656
+leaving fitGauss method, sum is: 1622.46
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 35   result is: 53.7115
+Entering computeVar method
+Leaving computeVar method returning result: 6.12833
+leaving fitGauss method, sum is: 96.6882
+dividePt: 51, sum1: 1622.46, sum2: 96.6882, total: 1719.15, minSumDiff: 1409.43, bestThr: 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 33.7861
+Entering computeVar method
+Leaving computeVar method returning result: 90.9165
+leaving fitGauss method, sum is: 1610.53
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 31   result is: 54.4959
+Entering computeVar method
+Leaving computeVar method returning result: 5.15907
+leaving fitGauss method, sum is: 79.8851
+dividePt: 52, sum1: 1610.53, sum2: 79.8851, total: 1690.42, minSumDiff: 1409.43, bestThr: 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 33.9273
+Entering computeVar method
+Leaving computeVar method returning result: 92.763
+leaving fitGauss method, sum is: 1621.95
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 21   result is: 55.3556
+Entering computeVar method
+Leaving computeVar method returning result: 4.05136
+leaving fitGauss method, sum is: 47.9377
+dividePt: 53, sum1: 1621.95, sum2: 47.9377, total: 1669.89, minSumDiff: 1409.43, bestThr: 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 214   result is: 34.0269
+Entering computeVar method
+Leaving computeVar method returning result: 94.1684
+leaving fitGauss method, sum is: 1635.01
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method maxHeight is: 19   result is: 56.0725
+Entering computeVar method
+Leaving computeVar method returning result: 3.08171
+leaving fitGauss method, sum is: 38.126
+dividePt: 54, sum1: 1635.01, sum2: 38.126, total: 1673.13, minSumDiff: 1409.43, bestThr: 34
+leaving biGaussian method, minSumDiff = 1409.43   bestThr = 34
+In main(). Below is the graph showing the histogram, the best fitted Gaussian curves and the gap
+Entering plotGaussCurves () method
+leaving plotGaussCurves()
